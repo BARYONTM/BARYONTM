@@ -1,10 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kadir Bedirhan Kocak
 ============================================================================================================================================
 
-Frontend Developer
-------------------
-
-I've been learning to code for 5 years. I've started with Visual Basic and then continued with C# .Net. For my "little experiments", I've continued to work on other languages like Python, C/C++, Javascript, Typescript, Java, PHP and so on. Generally speaking, I've mostly worked with backend technologies but I also have worked with frontend technologies for the satisfaction of my desire of gaining knowledge. Now, I'm curious about Deep Learning technology and thus I'm currently making progress to become proficient in it.
 
 * 🌍  I'm based in Istanbul/Turkey
 * ✉️  You can contact me at [kdrbdrhn23@gmail.com](mailto:kdrbdrhn23@gmail.com)
